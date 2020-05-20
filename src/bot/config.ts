@@ -33,11 +33,11 @@ export const DefaultBotConfig: BotConfig = {
         reconnect: true
     },
     discord: {
-        token: '<BOT-TOKEN>',
+        token: '<NzA1ODUyNDcyNDk2ODgxNzE2.XsU2Ig.A7h_sAu9kZk_2ciqqd9p0PwowS4>',
         log: true
     },
     command: {
-        symbol: '!'
+        symbol: ','
     },
     queue: {
         announce: true,
