@@ -33,7 +33,7 @@ export const DefaultBotConfig: BotConfig = {
         reconnect: true
     },
     discord: {
-        token: '<BOT-TOKEN>',
+        token: '<TOKEN>',
         log: true
     },
     command: {
